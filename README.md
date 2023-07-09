@@ -2,18 +2,16 @@
 # Sky-Sense_Alok_Agnihotri
 It is command line weather forecasting tool written in python programming language that accepts a city's name and returns the weather forecast of that area. It utilizes open weather map API to fetch weather data and parse it using python. 
 
-
 # These are the screenshots of my Sky Sense Weather Forecast Application:-
 
-![Screenshot 2023-06-24 160621](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/e747f68b-f88e-4008-9043-2e6abc615fd1)
-![Screenshot 2023-06-24 160659](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/6265b634-3e46-479b-884e-85ed4132a0f9)
-![Screenshot 2023-06-24 160836](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/1bc698ba-8b94-436f-8783-071e05140b12)
-![Screenshot 2023-06-24 160738](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/b1d29a84-3a25-4efb-a2d0-12851b99e37e)
+![Picture 1](https://github.com/ALAG11/Sky-Sense_Alok_Agnihotri/assets/96953120/201f9d99-c6c7-4331-8ce2-3dae81436213)
+![Picture 2](https://github.com/ALAG11/Sky-Sense_Alok_Agnihotri/assets/96953120/f843f427-baea-401b-a9e8-c6b54a57a01e)
+![Picture 3](https://github.com/ALAG11/Sky-Sense_Alok_Agnihotri/assets/96953120/91902e6e-1dfd-40e7-95a0-91799b0345a2)
+![Picture 4](https://github.com/ALAG11/Sky-Sense_Alok_Agnihotri/assets/96953120/99132d30-099d-493e-9de5-fe212d52aab5)
 
 # This is the Architecture diagram for Sky Sense Weather Forecast Application:-
 
-![Screenshot 2023-06-24 163330](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/5a36b2bf-7e93-4b95-8050-3b1d45e041c0)
-
+![Architecture diagram](https://github.com/ALAG11/Sky-Sense_Alok_Agnihotri/assets/96953120/efd87a0e-1e1d-49ad-8094-72b9fc39249c)
 
 # The GitHub use cases I used and helped me in my submission are:-
 
