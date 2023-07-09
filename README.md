@@ -21,6 +21,7 @@ It is command line weather forecasting tool written in python programming langua
 4. GitHub Copilot: GitHub Copilot is one of the most amazing use case of GitHub as it helped me a lot in my devleopment work of this application. All the general and boilerplate code and codes of some fnctions also got automatically generated and completed by the GitHub copilot saving my time and also enhancing my productivity.
 
 # To run this application in your system follow these steps:-
+
 1. First clone the full GitHub repository in your system using the "git clone" command from your terminal.
 2. Then navigate to the directory where you have cloned the repository using "cd" command from the terminal.
 3.  In that cloned repository directory first run the "requirements.txt" file using the command "pip install -r requirements.txt" on your terminal to download the application dependencies so that the application can run smoothly without any errors.
